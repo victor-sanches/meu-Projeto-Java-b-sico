@@ -3,7 +3,7 @@ public class App {
         //tipos ptimitivos
         //estude a class String que representa texto e aplicação
 
-        String meuNome = "João Victor"
+        String meuNome = "João Victor";
 
         double salarioMinimo = 2500.33;
 
@@ -17,6 +17,6 @@ public class App {
 
         System.out.print(numero);
 
-        final double VALOR_DE_PI = 3,14;
+        final double VALOR_DE_PI = 3.14;
     }
 }
