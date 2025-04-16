@@ -20,6 +20,7 @@ public class tiposVariaveis {
             System.out.println("Premeira letra do nome: " + letra);
             System.out.println("Ativo: " + isAtivo);
 
+            final double Valor_DE_PI = 3.14159; // Não pode ser alterado
     }
     
 }
