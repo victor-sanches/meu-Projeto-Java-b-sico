@@ -7,7 +7,7 @@ public class Variaveis {
         double salario = 2000.55;   // Número decimal
         char letra = 'J';           // Um único coractere
         boolean isAtivo = true;   //  Valor lógico
-        double altura = 1.75 // Número decimal
+        double altura = 1.75; // Número decimal
 
         // Tipo de Referência
 
@@ -16,11 +16,12 @@ public class Variaveis {
 
         // Exibindo valores das variáveis
 
-        System.out.println("Olá, me chamo: " + nome + " " + sobrenome);
-        System.out.println("Idade: " + idade);
+        System.out.println("Olá, me chamo " + nome + " " + sobrenome);
+        System.out.println("Tenho " + idade + "anos");
         System.out.println("Salário: " + salario);
         System.out.println("Premeira letra do nome: " + letra);
         System.out.println("Ativo: " + isAtivo);
+        System.out.println("Minha Altura é " + altura + " Cm");
 
 
         final double Valor_DE_PI = 3.14159; // Não pode ser alterado
