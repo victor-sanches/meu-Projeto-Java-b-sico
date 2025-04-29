@@ -16,7 +16,7 @@ public class Aboutme {
          * Integer.valueOf() e Double.valueOf() são usados para converter Strings em números.
          */
 
-        System.out.println("Olá, me chamo: " + primeiroNome + " " + segundoNome + " " + sobrenome);
+        System.out.println("Olá, me chamo " + primeiroNome + " " + segundoNome + " " + sobrenome);
         /*
          * As aspas (" ") antes e depois do + no Java indicam que você está trabalhando com uma String (texto).
          * Tudo entre aspas é considerado texto literal (exemplo: "Olá, me chamo:", " ").
